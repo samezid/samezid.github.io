@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.btn-warning {
+    background-color: #FF9900;
+    border: none;
+    padding: 16px 41px;
+}
+
+nav {
+    z-index: 3;
+}
+
+.btn-outline-light {
+    border: 2px solid white;
+    padding: 16px 41px;
+}
+
+@media (max-width: 576px) { 
+
+    .img-layanan {
+        width: 300px;
+    }
+
+
+}
